@@ -1,4 +1,4 @@
-# ENSF-380 Final Project
+# Java Farm scheduler
 
 Final Project for ENSF 380 Course
 
