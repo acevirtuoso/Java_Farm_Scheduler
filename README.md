@@ -1,7 +1,4 @@
 # Java Farm scheduler
-
-Final Project for ENSF 380 Course
-
 ## Final Project – Learning Outcomes
 - Design and document an object-oriented Java application
 - Connect to and import data from a given database
